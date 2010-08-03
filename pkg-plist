@@ -8,7 +8,8 @@
 %%SITE_PERL%%/Child/Link/Parent.pm
 %%SITE_PERL%%/Child/Link/Proc.pm
 %%SITE_PERL%%/Child/Util.pm
-@dirrm %%SITE_PERL%%/%%PERL_ARCH%%/auto/Child/IPC
-@dirrm %%SITE_PERL%%/%%PERL_ARCH%%/auto/Child/Link/IPC
-@dirrm %%SITE_PERL%%/%%PERL_ARCH%%/auto/Child/Link
-@dirrmtry %%SITE_PERL%%/%%PERL_ARCH%%/auto/Child
+@dirrm %%SITE_PERL%%/Child/Link/IPC/Pipe
+@dirrm %%SITE_PERL%%/Child/Link/IPC
+@dirrm %%SITE_PERL%%/Child/Link
+@dirrm %%SITE_PERL%%/Child/IPC
+@dirrmtry %%SITE_PERL%%/Child
