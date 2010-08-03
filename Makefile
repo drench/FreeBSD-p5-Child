@@ -16,8 +16,6 @@ COMMENT=	Object oriented simple interface to fork()
 
 PERL_MODBUILD=	yes
 
-WRKSRC=	${WRKDIR}/${DISTNAME}
-
 MAN3=		Child.3
 
 .include <bsd.port.mk>
