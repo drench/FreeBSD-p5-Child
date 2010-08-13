@@ -9,6 +9,7 @@ PORTNAME=	Child
 PORTVERSION=	0.007
 CATEGORIES=	devel perl5
 MASTER_SITES=	CPAN
+MASTER_SITE_SUBDIR= ../by-authors/id/E/EX/EXODIST
 PKGNAMEPREFIX=	p5-
 
 MAINTAINER=	citric@cubicone.tmetic.com
