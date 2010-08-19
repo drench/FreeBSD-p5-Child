@@ -17,6 +17,6 @@ COMMENT=	Object oriented simple interface to fork()
 
 PERL_MODBUILD=	yes
 
-MAN3=		Child.3
+MAN3=	Child.3 Child::IPC::Pipe.3 Child::Link.3 Child::Link::IPC.3 Child::Link::IPC::Pipe.3 Child::Link::IPC::Pipe::Parent.3 Child::Link::IPC::Pipe::Proc.3 Child::Link::Parent.3 Child::Link::Proc.3 Child::Util.3
 
 .include <bsd.port.mk>
