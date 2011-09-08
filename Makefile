@@ -2,14 +2,14 @@
 # Date created:	   Sat Jul 31, 2010
 # Whom:		   Dan Rench <citric@cubicone.tmetic.com>
 #
-# $FreeBSD: ports/devel/p5-Child/Makefile,v 1.1 2010/08/20 01:31:47 amdmi3 Exp $
+# $FreeBSD: ports/devel/p5-Child/Makefile,v 1.3 2011/09/08 08:36:31 az Exp $
 #
 
 PORTNAME=	Child
 PORTVERSION=	0.009
 CATEGORIES=	devel perl5
 MASTER_SITES=	CPAN
-MASTER_SITE_SUBDIR=../by-authors/id/E/EX/EXODIST
+MASTER_SITE_SUBDIR=	CPAN:EXODIST
 PKGNAMEPREFIX=	p5-
 
 MAINTAINER=	citric@cubicone.tmetic.com
